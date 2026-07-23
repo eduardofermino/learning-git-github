@@ -1,10 +1,10 @@
-# 🐙 Comandos Git
+# Comandos Git
 
 Guia de referência para os principais comandos de versionamento de código com Git.
 
 ---
 
-## 📋 Lista de Comandos
+## Lista de Comandos
 
 | Comando | Descrição |
 | :--- | :--- |
