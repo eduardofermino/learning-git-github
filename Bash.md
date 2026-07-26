@@ -15,7 +15,6 @@ Resumo prático dos principais comandos de navegação, manipulação e gerencia
 | `pwd` | Mostra o caminho absoluto da navegação |
 | `mkdir <nome>` | Cria um diretório |
 | `cat <arquivo>` | Mostra o que tem dentro do arquivo |
-| `git init` | Transforma a pasta atual em repositório / pasta versionada |
 | `rm <arquivo>` | Remove um arquivo |
 | `rm -rf <diretorio>` | Remove de forma recursiva (tudo do diretório) |
 | `touch <nome_do_arquivo>` | Cria um arquivo vazio (ex: `touch README.md`) |
